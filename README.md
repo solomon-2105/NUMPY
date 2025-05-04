@@ -41,10 +41,3 @@ This repository contains a comprehensive guide to **NumPy**, a powerful library 
 ### Files in the Repository
 - `numpy_guide_notebook.ipynb`: Jupyter Notebook with all exercises and explanations related to NumPy.  
 - `iris.csv`: Example dataset used in exercises for loading, modifying, and analyzing data.
-
-### Installation
-To run this repository on your local machine:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/numpy-guide.git
